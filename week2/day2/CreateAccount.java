@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class LeaftapsLogin {
+public class CreateAccount {
 	public static void main(String[] args) {
 		ChromeDriver driver=new ChromeDriver();
 		driver.get("http://leaftaps.com/opentaps");
